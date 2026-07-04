@@ -1,1 +1,1 @@
-# coursera_ex
+# Simple Interest Calculator Project
